@@ -146,3 +146,23 @@ footer p{
 #abme{
     margin-bottom: 80px;
 }
+
+.box {
+    margin: 120px;
+    height: 200px;
+    width: 80%;
+    border-radius: 20px;
+    box-shadow: 5px 5px 20px rgb(139, 138, 138); 
+    
+}
+
+.sos1 {
+    float: left;
+    margin-left: 130px;
+    margin-top: 30px;
+}
+
+#h11{
+    color: black;
+    font-weight: 700;
+}
